@@ -105,17 +105,42 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React--Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF4A00?style=flat&logo=chartdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-000000?style=flat&logo=framer&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ### Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat&logo=clickhouse&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Prometheus Client](https://img.shields.io/badge/Prom--Client-000000?style=flat&logo=prometheus&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 ### Infrastructure  
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![AWS MSK](https://img.shields.io/badge/AWS--MSK-FF9900?style=flat&logo=apachekafka&logoColor=black)
+![AWS EC2](https://img.shields.io/badge/AWS--EC2-FF9900?style=flat&logo=amazonec2&logoColor=black)
+![AWS MSK](https://img.shields.io/badge/AWS--MSK-FF9900?style=flat&logo=apachekafka&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+![Amazon API Gateway](https://img.shields.io/badge/API--Gateway-FF4F00?style=flat&logo=amazonapigateway&logoColor=white)
+![Elastic Load Balancer](https://img.shields.io/badge/Load--Balancer-0073BB?style=flat&logo=awselasticloadbalancing&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![ClickHouse Keeper](https://img.shields.io/badge/ClickHouse--Keeper-FFCC00?style=flat&logo=zookeeper&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+### Tools
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![workerpool](https://img.shields.io/badge/workerpool-000000?style=flat&logo=nodedotjs&logoColor=white)
 
 ## 설치 및 실행
 
