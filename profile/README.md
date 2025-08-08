@@ -82,6 +82,22 @@
 
 </details>
 
+<details>
+<summary>아키텍처 관련 글 모음</summary>
+
+### Architectural Improvements 시리즈
+1. [Architectural Improvements 1](https://velog.io/@qnfrma1997/Architectural-Improvements-1)  
+2. [Architectural Improvements 2](https://velog.io/@qnfrma1997/Architectural-Improvements-2)  
+3. [Architectural Improvements 3](https://velog.io/@qnfrma1997/Architectural-Improvements-3)  
+4. [Architectural Improvements 4](https://velog.io/@qnfrma1997/Architectural-Improvements4)  
+
+### DeepDive 시리즈
+- [DeepDive: GC Triggered Stop-the-World](https://velog.io/@qnfrma1997/DeepDive-GC-Triggered-Stop-the-World)  
+- [DeepDive: Many Over Mighty](https://velog.io/@qnfrma1997/DeepDive-Many-Over-Mighty)  
+
+</details>
+
+
 ## 데이터 흐름도
 
 <details>
