@@ -19,7 +19,8 @@
 > 운영자가 **Data-Driven** 방식으로 합리적인 의사결정을 내릴 수 있도록<br />
 > 지원하는 **클릭스트림** 분석 플랫폼입니다.
 - 배포 URL : https://klicklab.co.kr/
-- 소개 영상 : https://jungle.krafton.com/board/project/read/213
+- 소개 영상(공식 유튜브) : [https://www.youtube.com/watch?v=j3gBUdQbYz4](https://www.youtube.com/watch?v=j3gBUdQbYz4)
+- 소개 영상(공식 홈페이지) : https://jungle.krafton.com/board/project/read/213
 
 ## 팀원 소개
 | <img src="https://img.shields.io/badge/Project_Leader-FF5733" /> | <img src="https://img.shields.io/badge/Frontend_Leader-%2300264B" /> | <img src="https://img.shields.io/badge/Backend_Leader-%2310069F" /> | <img src="https://img.shields.io/badge/Database_Leader-blue" /> | <img src="https://img.shields.io/badge/발사대_Leader-%23009688" /> | <img src="https://img.shields.io/badge/Infra_Leader-003df3" /> |
